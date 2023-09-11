@@ -15,16 +15,12 @@
 * **Python**
 
 # 기능 및 특징
-* 초음파 센서를 이용하여 거리가 15cm이상이면 직진을 15cm미만이면 좌회전을 하도록 모터 제어를 설정하였다.
-* 딥러닝을 이용하여 이미지 인식결과:
-* 초기 상태
+1. 초음파 센서를 이용하여 거리가 15cm이상이면 직진을 15cm미만이면 좌회전을 하도록 모터 제어를 설정하였다.
+2. 딥러닝을 이용하여 이미지 인식결과:
+2-1. 초기 상태
 
-![초기 이미지](https://i.postimg.cc/K85f82R0/3.png)
-![초기 이미지](https://i.postimg.cc/XNck8Wg4/3.png)
-
-  :arrow_down:
-  
-![초기 이미지](https://i.postimg.cc/258wqKWr/7.jpg)
+![초기 이미지](https://i.postimg.cc/XNck8Wg4/3.png)<img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="50" height="50">
+ ![초기 이미지](https://i.postimg.cc/63SqVy1Y/7.jpg)
 * 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
   
 ![화재 이미지](https://i.postimg.cc/tgFgNZkR/0.png)
