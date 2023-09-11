@@ -22,7 +22,7 @@
 
 ![초기 이미지](https://i.postimg.cc/XNck8Wg4/3.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="50" height="50">
 ![초기 LED 이미지](https://i.postimg.cc/63SqVy1Y/7.jpg)
-* 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
+* 카메라에 인식된 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
   
 ![화재 이미지](https://i.postimg.cc/ZRMtsQ3L/0.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="50" height="50">
 ![화재 LED 이미지](https://i.postimg.cc/fRDz96v3/4.jpg)
