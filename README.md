@@ -35,18 +35,18 @@
 
 ![초기 이미지](https://i.postimg.cc/CLJ2mtx5/3.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="150" height="150">
 ![초기 LED 이미지](https://i.postimg.cc/YSFbKyM1/7.jpg)
-* 카메라에 인식된 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
+* 카메라에 인식된 이미지가 불이면 웹캠에 fire및 백분율 표시, 빨간색 LED가 출력
   
 ![화재 이미지](https://i.postimg.cc/W1JB98Fk/0.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="150" height="150">
 ![빨간색 LED 이미지](https://i.postimg.cc/Qx5LmSWW/4.jpg)
 
-* 카메라에 인식된 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
+* 카메라에 인식된 이미지가 사람이면 웹캠에 human및 백분율 표시, 초록색 LED가 출력
   
 ![사람 이미지](https://i.postimg.cc/MGz0frqb/1.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="150" height="150">
 ![초록색 LED 이미지](https://i.postimg.cc/mgvywNCh/5.jpg)
 
 
-* 카메라에 인식된 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
+* 카메라에 인식된 이미지가 누수이면 웹캠에 water및 백분율 표시, 파란색 LED가 출력
   
 ![누수 이미지](https://i.postimg.cc/DfxQDKL9/2.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="150" height="150">
 ![파란색 LED 이미지](https://i.postimg.cc/J4t3CdQG/6.jpg)
