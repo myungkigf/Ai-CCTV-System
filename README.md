@@ -26,7 +26,11 @@
 
 # 기능 및 특징
 1. 초음파 센서를 이용하여 거리가 15cm이상이면 직진을 15cm미만이면 좌회전을 하도록 모터 제어를 설정하였다.
-2. 딥러닝을 이용하여 이미지 인식결과:
+2. 카메라가 이미지를 인식하여 정확도가 95% 이상이면 결과를 출력하고 10초뒤 다시 움직이게 설정하였다.
+
+![초기 LED 이미지](https://i.postimg.cc/QxzBQYsZ/9.jpg)
+
+3. 딥러닝을 이용하여 이미지 인식결과:
 * 카메라에 인식된 이미지가 정확하지 않으면 웹캠에 Low probability표시,흰색 LED가 출력
 
 ![초기 이미지](https://i.postimg.cc/XNck8Wg4/3.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="50" height="50">
@@ -44,6 +48,6 @@
 
 * 카메라에 인식된 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
   
-![누 이미지](https://i.postimg.cc/Jny1pPK9/2.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="50" height="50">
+![누수 이미지](https://i.postimg.cc/Jny1pPK9/2.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="50" height="50">
 ![파란색 LED 이미지](https://i.postimg.cc/0NhgyxdB/6.jpg)
 
