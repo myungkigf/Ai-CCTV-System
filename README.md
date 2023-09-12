@@ -31,7 +31,7 @@
 ![모터 제어 코드 이미지](https://i.postimg.cc/QxzBQYsZ/9.jpg)
 
 3. 딥러닝을 이용하여 이미지 인식에 따른 웹캠 및 LED 결과를 표시:
-* 카메라에 인식된 이미지가 정확하지 않으면 웹캠에 Low probability표시,흰색 LED가 출력
+* 카메라에 인식된 이미지가 정확하지 않으면 웹캠에 Low probability표시, 흰색 LED가 출력
 
 ![초기 이미지](https://i.postimg.cc/CLJ2mtx5/3.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="150" height="150">
 ![흰색 LED 이미지](https://i.postimg.cc/YSFbKyM1/7.jpg)
