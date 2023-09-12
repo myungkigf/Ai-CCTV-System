@@ -33,21 +33,21 @@
 3. 딥러닝을 이용하여 이미지 인식에 따른 웹캠 및 LED 결과를 표시:
 * 카메라에 인식된 이미지가 정확하지 않으면 웹캠에 Low probability표시,흰색 LED가 출력
 
-![초기 이미지](https://i.postimg.cc/XNck8Wg4/3.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="50" height="50">
-![초기 LED 이미지](https://i.postimg.cc/63SqVy1Y/7.jpg)
+![초기 이미지](https://i.postimg.cc/CLJ2mtx5/3.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="150" height="150">
+![초기 LED 이미지](https://i.postimg.cc/YSFbKyM1/7.jpg)
 * 카메라에 인식된 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
   
-![화재 이미지](https://i.postimg.cc/W1JB98Fk/0.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="200" height="200">
+![화재 이미지](https://i.postimg.cc/W1JB98Fk/0.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="150" height="150">
 ![빨간색 LED 이미지](https://i.postimg.cc/Qx5LmSWW/4.jpg)
 
 * 카메라에 인식된 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
   
-![사람 이미지](https://i.postimg.cc/mrBBGTjN/1.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="50" height="50">
-![초록색 LED 이미지](https://i.postimg.cc/C53pr0d8/5.jpg)
+![사람 이미지](https://i.postimg.cc/MGz0frqb/1.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="150" height="150">
+![초록색 LED 이미지](https://i.postimg.cc/mgvywNCh/5.jpg)
 
 
 * 카메라에 인식된 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
   
-![누수 이미지](https://i.postimg.cc/Jny1pPK9/2.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="50" height="50">
-![파란색 LED 이미지](https://i.postimg.cc/0NhgyxdB/6.jpg)
+![누수 이미지](https://i.postimg.cc/DfxQDKL9/2.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="150" height="150">
+![파란색 LED 이미지](https://i.postimg.cc/J4t3CdQG/6.jpg)
 
