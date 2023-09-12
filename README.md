@@ -33,11 +33,11 @@
 3. 딥러닝을 이용하여 이미지 인식에 따른 웹캠 및 LED 결과를 표시:
 * 카메라에 인식된 이미지가 정확하지 않으면 웹캠에 Low probability표시,흰색 LED가 출력
 
-![초기 이미지](https://i.postimg.cc/XNck8Wg4/3.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="100" height="100">
+![초기 이미지](https://i.postimg.cc/XNck8Wg4/3.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="50" height="50">
 ![초기 LED 이미지](https://i.postimg.cc/63SqVy1Y/7.jpg)
 * 카메라에 인식된 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
   
-![화재 이미지](https://i.postimg.cc/W1JB98Fk/0.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="50" height="50">
+![화재 이미지](https://i.postimg.cc/W1JB98Fk/0.png) <img src="https://github.githubassets.com/images/icons/emoji/unicode/27a1.png?v8" width="200" height="200">
 ![빨간색 LED 이미지](https://i.postimg.cc/Qx5LmSWW/4.jpg)
 
 * 카메라에 인식된 이미지가 불이면 웹캠에 fire및 백분율 표시,빨간색 LED가 출력
