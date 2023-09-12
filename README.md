@@ -1,6 +1,9 @@
-# Ai-CCTV-System
+# PORTFOLIO
 
-인공지능을 이용한 CCTV 시스템의 소개이다.
+# 📗 목차
+* 📝 개요
+* 🛠 기술 및 도구
+* 👨🏻‍💻프로젝트 기능
 
 # 🛠 개발 도구
 * **Jupyter Notebook**
